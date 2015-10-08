@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background:#177ea1;
+}
+div#wrapper {
+	width:880px;
+	height:550px;
+	margin:0 auto;
+	text-align: left;
+}
+div#container {
+	width:880px;
+	height:451px;
+	position:relative;
+}
+div#mainText h1{
+	position:relative;
+	top:0px;
+	left:27px;
+	font-family:
+		"ヒラギノ明朝 ProN W6",
+		"HiraMinProN-W6",
+		"HG明朝E",
+		"ＭＳ Ｐ明朝",
+		"MS PMincho",
+		"MS 明朝",
+		serif;
+	font-size:110px;
+	color:#FFF;
+}
+div#mainText h2{
+	position:relative;
+	top:185px;
+	left:26px;
+	font-family:
+		"ヒラギノ明朝 ProN W6",
+		"HiraMinProN-W6",
+		"HG明朝E",
+		"ＭＳ Ｐ明朝",
+		"MS PMincho",
+		"MS 明朝",
+		serif;
+	font-size:28px;
+	color:#FFF;
+}
+#mainText {
+	margin: 0 auto;
+	width:816px;
+	height:451px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:2;
+}
+#mainImg {
+    margin: 0 auto;
+    width: 493px;
+    height: 451px;
+    text-align: left;
+    overflow: hidden;
+    position: relative;
+	left:194px;
+	z-index:1;
+}
+ 
+#mainImg img {
+    top: 0;
+    left: 0px;
+    position: absolute;
+}
+
+div#trailer {
+	margin:0 auto;
+	width:337px;
+	height:451px;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:2;
+}
+#trailer video {
+	position:absolute;
+	top:132px;
+	left:13px;
+}
+div#gallary {
+	margin:0 auto;
+	width:543;
+	height:451;
+	position:absolute;
+	top:0px;
+	left:337px;
+	z-index:2;
+}
+div.gallary01 {
+	position:absolute;
+	top:36px;
+	left:15px;
+}
+div.gallary02 {
+	position:absolute;
+	top:36px;
+	left:280px;
+}
+div.gallary03 {
+	position:absolute;
+	top:243px;
+	left:15px;
+}
+div.gallary04 {
+	position:absolute;
+	top:243px;
+	left:280px;
+}
+.head {
+	padding-top:59px;
+	padding-left:49px;
+ }
+div#footer {
+	clear:both;
+	height:99px;
+	text-align: center;
+}
+div#navi ul li {
+	top:451px;
+	left:auto;
+}

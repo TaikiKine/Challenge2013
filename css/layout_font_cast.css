@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+div#mainText h3{
+	width:393px;
+	height:302px;
+	position:relative;
+	top:44px;
+	left:60px;
+	font-family:
+		"ヒラギノ明朝 ProN W6",
+		"HiraMinProN-W6",
+		"HG明朝E",
+		"ＭＳ Ｐ明朝",
+		"MS PMincho",
+		"MS 明朝",
+		serif;
+	font-size:18px;
+	color:#FFF;
+}
+div#mainText h4{
+	width:387px;
+	height:268px;
+	position:absolute;
+	top:155px;
+	left:460px;
+	font-family:
+		"ヒラギノ明朝 ProN W6",
+		"HiraMinProN-W6",
+		"HG明朝E",
+		"ＭＳ Ｐ明朝",
+		"MS PMincho",
+		"MS 明朝",
+		serif;
+	font-size:18px;
+	color:#FFF;
+}
